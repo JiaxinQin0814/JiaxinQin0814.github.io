@@ -86,7 +86,7 @@ author:
   location         : "UIUC,US"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "jiaxinqin0814.github.io"
+  googlescholar    : # "jiaxinqin0814.github.io"
   email            : "qinjiaxin1456220491@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
