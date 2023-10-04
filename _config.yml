@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "JiaxinQin"
 title_separator          : "-"
-name                     : &name "Jiaxin Qin"
+name                     : &name "Jiaxin-Qin"
 description              : &description "I am a fourth year undergraduate in Renmin Univerisity of China"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiaxin Qin"
+  name             : "Jiaxin-Qin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "UIUC,US"
