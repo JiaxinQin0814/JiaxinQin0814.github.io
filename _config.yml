@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JiaxinQin"
+title                    : "Jiaxin Qin’s Home Page"
 title_separator          : "-"
-name                     : &name "Jiaxin-Qin"
-description              : &description "I am a fourth year undergraduate in Renmin Univerisity of China"
+name                     : &name "This is Jiaxin Qin's Homepage"
+description              : &description "Jiaxin Qin is a fourth year undergraduate in Renmin Univerisity of China, majoring in Artificial Intelligence, this website is her homepage"
 url                      : https://jiaxinqin0814.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiaxinqin0814.github.io"
