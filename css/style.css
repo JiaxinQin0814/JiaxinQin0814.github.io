@@ -1,0 +1,45 @@
+body {
+  margin-top: 20px;
+}
+
+.row {
+  margin-top: 40px;
+}
+
+#news li {
+  margin-top: 8px;
+}
+
+#pub p {
+  margin-bottom: 0.2%;
+  font-size: smaller;
+}
+
+#pub h5 {
+  margin-top: 4%;
+}
+
+#pub li {
+  margin-bottom: 2%;
+}
+
+#pub span {
+  color: #fff;
+  background-color: rgba(48, 125, 246, 0.75);
+  border-radius: 0.125rem;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.06), 0 2px 10px 0 rgba(0,0,0,0.06);
+  padding: 0.05em 0.2em;
+  margin-right: 5px;
+}
+
+#tail div {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.split{
+  background-image: linear-gradient(to right, #307Df6, white, white);
+  border: 0;
+  height: 2px;
+  margin-bottom: 10px
+}
